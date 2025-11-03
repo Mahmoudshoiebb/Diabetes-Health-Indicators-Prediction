@@ -37,15 +37,11 @@ Diabetes-Health-Indicators-Prediction/
 ├─ data/
 │  └─ diabetes_012_health_indicators_BRFSS2015.csv
 ├─ notebooks/
-│  └─ diabetes_analysis.ipynb
+│  └─ Diabetes Health Indicators Prediction.ipynb
 ├─ src/
-│  ├─ preprocessing.py
-│  ├─ modeling.py
-│  └─ evaluate.py
+│  ├─ Diabetes Health Indicators Prediction.ipynb
 ├─ docs/
-│  └─ Diabetes_Health_Indicators_Prediction_Report.pdf
-├─ requirements.txt
-├─ .gitignore
+│  └─ Diabetes Health Indicators report.pdf
 └─ README.md
 ```
 
