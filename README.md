@@ -132,6 +132,6 @@ This repository is available under the MIT License. See the [LICENSE](LICENSE) f
 ---
 
 ## Contact
-Mahmoud Shoieb — (your email)  
-Project available on GitHub: `https://github.com/<your-username>/Diabetes-Health-Indicators-Prediction`
+Mahmoud M. Shoieb — mahmoudshoieb12@gmail.com  
+Project available on GitHub: `https://github.com/Mahmoudshoiebb/Diabetes-Health-Indicators-Prediction.git`
 
